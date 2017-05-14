@@ -1,8 +1,8 @@
-# FIT2CLOUD 云管理平台之 IT 运营及自服务门户使用手册 {#fit2cloud-it}
+# FIT2CLOUD 云管理平台 v2.0 用户手册 {#fit2cloud-it}
 
 ![](/assets/logo.png)
 
-云管理平台之 IT 运营及自服务门户使用**手册**
+FIT2CLOUD 云管理平台 v2.0 用户手册
 
 **版本: v1.0**
 
