@@ -1,10 +1,10 @@
-# FIT2CLOUD 云管理平台 v2.0 用户手册 {#fit2cloud-it}
+# FIT2CLOUD 云管理平台（CMP） -- 用户手册 {#fit2cloud-it}
 
 ![](/assets/logo.png)
 
-FIT2CLOUD 云管理平台 v2.0 用户手册
+FIT2CLOUD 云管理平台（CMP） -- 用户手册
 
-**版本: v1.0**
+**版本: v1.2**
 
 **在本文档被更新的版本替代之前,本文档支持列出的每个产品的版本和所有后续版本。**
 
