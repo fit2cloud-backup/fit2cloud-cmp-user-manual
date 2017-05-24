@@ -1,6 +1,6 @@
 # Summary
 
-* [FIT2CLOUD 云管理平台 v2.0 用户手册](README.md)
+* [FIT2CLOUD 云管理平台（CMP）-- 用户手册V1.2](README.md)
 * [本文档的目的](/本文档的目的.md)
 * [自服务平台](/自服务平台/README.md)
   * [概念及概述](/自服务平台/概念及概述.md)
